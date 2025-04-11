@@ -1,5 +1,7 @@
 title: とあるSEのブログ
 description: 暇です
 show_downloads: false
+paginate: 5
+paginate_path: "/page:num/"
 google_analytics:
 theme: jekyll-theme-hacker
